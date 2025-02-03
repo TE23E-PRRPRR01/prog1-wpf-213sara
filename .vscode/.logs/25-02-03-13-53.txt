@@ -1,0 +1,6 @@
+25-02-03 13:53 Session started
+----------------------------------------
+13:59:08 Document switched to: c:\Users\sara.kerri\AppData\Roaming\Code\User\profiles\-8aa8b6c\settings.json
+----------------------------------------
+13:59:31 Document switched to: c:\Users\sara.kerri\AppData\Roaming\Code\User\profiles\-8aa8b6c\settings.json
+----------------------------------------

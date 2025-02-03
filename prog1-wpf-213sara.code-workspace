@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "workbench.iconTheme": "vscode-great-icons",
+        "workbench.colorCustomizations": {
+            "activityBar.background": "#3B1D61",
+            "titleBar.activeBackground": "#532888",
+            "titleBar.activeForeground": "#FBF9FD"
+        },
+        "csharp.suppressBuildAssetsNotification": true,
+        "sessionlogger.enabled": true,
+        "csharp.debug.console": "externalTerminal",
+        "explorer.compactFolders": false,
+        "explorer.sortOrderLexicographicOptions": "unicode",
+        "workbench.editorAssociations": {
+            "*.md": "vscode.markdown.preview.editor"
+        },
+        "files.associations": {
+            "*.xaml": "xml"
+        },
+        "xml.fileAssociations": [
+            {
+                "pattern": "**/*.xaml",
+                "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+            }
+        ]
+    }
+}

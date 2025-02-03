@@ -1,0 +1,16 @@
+25-02-03 14:00 Session started
+----------------------------------------
+14:01:23 Document switched to: c:\Users\sara.kerri\AppData\Roaming\Code\User\profiles\-8aa8b6c\settings.json
+----------------------------------------
+14:01:45 Document switched to: c:\Users\sara.kerri\AppData\Roaming\Code\User\profiles\-8aa8b6c\settings.json
+----------------------------------------
+14:02:21 041:004 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
