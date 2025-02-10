@@ -1,0 +1,8 @@
+25-02-05 16:08 Session started
+----------------------------------------
+16:11:23 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\EventApp\EventApp.sln
+----------------------------------------
+16:11:24 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\EventApp\MainWindow.xaml
+----------------------------------------
+16:13:48 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\EventApp\MainWindow.xaml.cs
+----------------------------------------

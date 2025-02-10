@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Intro"
         mc:Ignorable="d"
         Title="Mitt första fönsterprogram" Height="450" Width="800"
-        MinHeight="200" MinHeight="200"
+        Min="200" MinHeight="200"
         MaxHeight="500" MaxWidth="600"
         SizeToContent="WidhtandHeight"
         Background="#d1e4ff">
