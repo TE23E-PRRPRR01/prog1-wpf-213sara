@@ -1,0 +1,6 @@
+25-03-19 13:52 Session started
+----------------------------------------
+13:52:25 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\MainWindow.xaml.cs
+----------------------------------------
+13:52:30 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\MainWindow.xaml.cs
+----------------------------------------

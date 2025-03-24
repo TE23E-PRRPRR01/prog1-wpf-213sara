@@ -21,15 +21,15 @@ public partial class MainWindow : Window
         InitializeComponent();
     }
 
-   if (!int.TryParse(txbMax.Text, out int Max))
-   {
-        txbMax.Text = "Fel på inmatning, ange ett tal";
-
-        Max = 100;
-   }
 
     private void KlickSlumpa(object sender, RoutedEventArgs e)
     {
+    if (!int.TryParse(txbMax.Text, out int Max))
+    {
+            txbMax.Text = "Fel på inmatning, ange ett tal";
+
+            Max = 100;
+    }
         // Läsa av maxvärde
         //int Max = int.Parse(txbMax.Text) + 1;
 

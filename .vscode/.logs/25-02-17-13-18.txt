@@ -1,0 +1,14 @@
+25-02-17 13:18 Session started
+----------------------------------------
+13:18:51 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\EventApp\MainWindow.xaml.cs
+----------------------------------------
+13:18:54 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\EventApp\MainWindow.xaml
+----------------------------------------
+13:18:55 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\EventApp\MainWindow.xaml.cs
+----------------------------------------
+13:19:07 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\SlumpaApp\MainWindow.xaml
+----------------------------------------
+13:19:08 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+13:20:04 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\MainWindow.xaml.cs
+----------------------------------------

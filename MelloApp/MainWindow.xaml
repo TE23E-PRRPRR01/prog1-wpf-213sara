@@ -1,0 +1,32 @@
+﻿<Window x:Class="MelloApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MelloApp"
+        mc:Ignorable="d"
+        Title="MelloApp" Height="450" Width="800"
+        SizeToContent="WidthAndHeight">
+        <StackPanel Background="black">
+            <Image Width="200" Source="bilder/mello.png"></Image>
+        
+        <Label Foreground="white">Rösta på din favvolåt!</Label>
+        
+        <Button Name="Röd" Click="KlickRösta" FontWeight="Bold" Margin="10" Padding="10" Background="red" Foreground="white">Röd</Button>
+
+        <Button Name="Blå" Click="KlickRösta" FontWeight="Bold" Margin="10" Padding="10" Background="blue" Foreground="white">Blå</Button>
+
+        <Button Name="Grön" Click="KlickRösta" FontWeight="Bold" Margin="10" Padding="10" Background="green" Foreground="white">Grön</Button>
+
+        <Button Name="Lila" Click="KlickRösta" FontWeight="Bold" Margin="10" Padding="10" Background="purple" Foreground="white">Lila</Button>
+
+        <Button Name="Gul" Click="KlickRösta" FontWeight="Bold" Margin="10" Padding="10" Background="yellow" Foreground="white">Gul</Button>
+
+         <Label FontWeight="Bold" Margin="10" Foreground="white">Antal röster</Label>
+
+         <TextBox Name="tbxResultat" FontWeight="Bold" Margin="10" Padding="10"></TextBox>
+
+         <Button Name="tbxRensa" Click="KlickRensa" FontWeight="Bold" Margin="10" Padding="10" Background="white" Foreground="black">Rensa</Button>
+
+        </StackPanel>
+</Window>

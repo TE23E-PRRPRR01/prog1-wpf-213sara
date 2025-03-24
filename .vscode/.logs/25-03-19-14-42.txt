@@ -1,0 +1,16 @@
+14:42:01 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\MelloApp\MainWindow.xaml
+----------------------------------------
+25-03-19 14:42 Session started
+----------------------------------------
+14:42:09 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\App.xaml.cs
+----------------------------------------
+14:42:10 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\App.xaml
+----------------------------------------
+14:42:10 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\AreaApp.sln
+----------------------------------------
+14:42:11 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\AssemblyInfo.cs
+----------------------------------------
+14:42:14 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\MainWindow.xaml
+----------------------------------------
+14:43:03 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\MainWindow.xaml.cs
+----------------------------------------
