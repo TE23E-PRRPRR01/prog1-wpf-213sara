@@ -1,0 +1,13 @@
+25-04-02 13:52 Session started
+----------------------------------------
+13:52:31 Document switched to: extension-output-ms-dotnettools.vscode-dotnet-runtime-#1-.NET Install Tool
+----------------------------------------
+13:52:31 000:000 > ms-dotnettools.csharp tried to install .NET 9.0.3~x64 but that install had already been requested. No downloads or changes were made.
+ms-dotnettools.csdevkit requested to download the .NET ASP.NET Runtime.
+Downloading .NET version(s) 9.0.3~x64~aspnetcore ...
+13:52:31 002:052 > ms-dotnettools.csharp requested to download the .NET Runtime.
+ -- Concurrent download of '9.0.3~x64' started!
+
+Downloading .NET version(s) 9.0.3~x64~aspnetcore, 9.0.3~x64 ...
+
+13:52:32 005:063 > .
