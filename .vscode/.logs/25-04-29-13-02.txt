@@ -1,0 +1,4 @@
+25-04-29 13:02 Session started
+----------------------------------------
+13:02:49 Document switched to: extension-output-ms-dotnettools.vscode-dotnet-runtime-#1-.NET Install Tool
+----------------------------------------

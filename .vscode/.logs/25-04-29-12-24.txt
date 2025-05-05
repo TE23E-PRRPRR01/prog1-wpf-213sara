@@ -1,0 +1,12 @@
+25-04-29 12:24 Session started
+----------------------------------------
+12:24:23 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\NamnApp\MainWindow.xaml.cs
+----------------------------------------
+12:24:28 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\Intro\Intro.sln
+----------------------------------------
+12:24:30 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\Intro\MainWindow.xaml
+----------------------------------------
+12:24:32 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\Intro\MainWindow.xaml.cs
+----------------------------------------
+12:24:37 Document switched to: c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\prog1-wpf-213sara\AreaApp\MainWindow.xaml.cs
+----------------------------------------
